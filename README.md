@@ -25,3 +25,5 @@ Contrast with object oriented programming, where application state is usually sh
 ## Videos
 
 [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+
+[If you know map, I will teach you monads - Mattias Petter Johansson](https://www.youtube.com/watch?v=2jp8N6Ha7tY)
