@@ -16,7 +16,7 @@ Contrast with object oriented programming, where application state is usually sh
 
 [Why Learn Functional Programming in JavaScript? (Composing Software)](https://medium.freecodecamp.com/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
 
-[Get FunctionalGet Functional](https://blog.daftcode.pl/get-functional-3eaceb76258f)
+[Get Functional](https://blog.daftcode.pl/get-functional-3eaceb76258f)
 
 [A Functional Programmer’s Introduction to JavaScript](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30#.ba08vt5af)
 
