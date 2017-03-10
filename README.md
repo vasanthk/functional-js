@@ -1,10 +1,14 @@
 # Functional Programming in JavaScript
 
+### What is Functional Programming?
+
 In computer science, functional programming is a programming paradigm that treats computation as the evaluation of mathematical functions and avoids state and mutable data. It emphasizes the application of functions, in contrast to the imperative programming style, which emphasizes changes in state. Functional programming has its roots in lambda calculus, a formal system developed in the 1930s to investigate function definition, function application, and recursion. Many functional programming languages can be viewed as elaborations on the lambda calculus.
 
 It is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects.
 Functional programming is declarative rather than imperative, and application state flows through pure functions.
 Contrast with object oriented programming, where application state is usually shared and colocated with methods in objects.
+
+### Purity
 
 In functional programming, we strive to use “pure” functions as much as possible. When a function isn’t pure, it has the potential to act unpredictably.
 
