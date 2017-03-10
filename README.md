@@ -6,7 +6,9 @@ It is the process of building software by composing pure functions, avoiding sha
 Functional programming is declarative rather than imperative, and application state flows through pure functions.
 Contrast with object oriented programming, where application state is usually shared and colocated with methods in objects.
 
-In functional programming, we strive to use “pure” functions as much as possible. There are two qualities that make a function “pure”:
+In functional programming, we strive to use “pure” functions as much as possible. When a function isn’t pure, it has the potential to act unpredictably.
+
+There are two qualities that make a function “pure”:
 
 * The function depends only on the input provided to it to produce a result (and not on any external state).
 
