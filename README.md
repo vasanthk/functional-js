@@ -36,6 +36,7 @@ In short, immutable data is important because we need to be able to attach depen
 
 Goodbye to side-effects that can change an expression’s value. Goodbye to worrying about whether some piece of data is the same as what you expected it to be. When you have this guarantee, functions can now be evaluated at any time and in any order and the result is guaranteed to always be the same.
 
+Overall, there are many other benefits to immutability in functional programming. They make values easy to share, they make it safer and easier to do concurrent programming, they avoid temporal coupling, they eliminate defensive copies, and much more.
 
 ## Reference
 
