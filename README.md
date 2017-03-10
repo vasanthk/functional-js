@@ -26,6 +26,10 @@ There are plenty of other reasons to use pure functions in functional programmin
 
 Our ultimate goal here as functional programmers is not to eliminate side effects, but confine them. We strive to minimize the amount of impure code, and segregate it from the rest of our program.
 
+### Immutability
+
+When data is immutable, it’s state cannot change after it’s created. If you want to change an immutable object, you don’t. Instead, you create a new object with the changed value and point your reference to it.
+
 ## Reference
 
 [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.ip0v7pbkq)
