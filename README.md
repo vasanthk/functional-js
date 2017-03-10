@@ -18,9 +18,9 @@ There are two qualities that make a function “pure”:
 
 * The function does not cause any observable side effects, such as modifying a global object or modifying a parameter passed by reference.
 
-Benefit 1: Pure functions are predictable
+**Benefit 1**: Pure functions are predictable
 
-Benefit 2: Pure functions are easy to test
+**Benefit 2**: Pure functions are easy to test
 
 There are plenty of other reasons to use pure functions in functional programming. Beyond being easier to refactor and debut, pure functions are also deterministic and well-suited for parallel processing.
 
