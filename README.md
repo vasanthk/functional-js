@@ -30,6 +30,13 @@ Our ultimate goal here as functional programmers is not to eliminate side effect
 
 When data is immutable, it’s state cannot change after it’s created. If you want to change an immutable object, you don’t. Instead, you create a new object with the changed value and point your reference to it.
 
+Why does functional programming use immutable data in the first place?
+
+In short, immutable data is important because we need to be able to attach dependable, unchanging values to our functions. Something crazy happens when you treat all data as fixed values: the concept of time goes away.
+
+Goodbye to side-effects that can change an expression’s value. Goodbye to worrying about whether some piece of data is the same as what you expected it to be. When you have this guarantee, functions can now be evaluated at any time and in any order and the result is guaranteed to always be the same.
+
+
 ## Reference
 
 [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.ip0v7pbkq)
