@@ -20,6 +20,8 @@ Benefit 2: Pure functions are easy to test
 
 There are plenty of other reasons to use pure functions in functional programming. Beyond being easier to refactor and debut, pure functions are also deterministic and well-suited for parallel processing.
 
+Our ultimate goal here as functional programmers is not to eliminate side effects, but confine them. We strive to minimize the amount of impure code, and segregate it from the rest of our program.
+
 ## Reference
 
 [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.ip0v7pbkq)
