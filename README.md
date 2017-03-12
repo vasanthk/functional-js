@@ -42,6 +42,14 @@ Overall, there are many other benefits to immutability in functional programming
 
 If a function consistently yields the same result for the same input, it is referentially transparent. It gives us the ability to freely replace an expression with its value and not change the behavior of the program.
 
+Here’s a more general way to think about referential transparency:
+
+**Pure functions + immutable data = referential transparency**
+
+**Benefit 1**: Makes it much easier to refactor and rewrite programs. Since a pure, referentially transparent function can be freely replaced by it’s value, the only thing we have to worry about when we refactor it is that we get the same value for a given input.
+
+**Benefit 2**: Particularly helpful for optimizing code using memoization, common subexpression elimination, lazy evaluation, or parallelization.
+
 ## Reference
 
 [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.ip0v7pbkq)
