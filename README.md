@@ -91,9 +91,19 @@ In short, partial application allows us to partially apply certain argument to c
 
 Currying is the process of taking a function that accepts N arguments and turning it into a chained series of N functions that each take one argument.
 
-It sounds a lot like partial application, doesn’t it? It takes a function and an argument, and returns a new function with the argument applied to it. So what’s the difference? The difference is that with currying, you can never provide more than one argument — it has to be either one or zero.
+It sounds a lot like partial application, doesn't it? It takes a function and an argument, and returns a new function with the argument applied to it. So what’s the difference? The difference is that with currying, you can never provide more than one argument — it has to be either one or zero.
 
 Remember that with partial application, we can apply more than one argument at a time. If a function takes 5 arguments, we can partially apply 3 of them. But with currying, we only pass one argument at a time. So if a function takes 5 arguments, we have to curry 5 times before we get the resulting value.
+
+### Declarative Programming Paradigm
+
+Functional programs are “declarative”. A declarative program declares “what” the program does without necessarily telling us “how” it does it.
+
+Long story short:
+
+**Declarative = WHAT**
+
+**Imperative = HOW**
 
 ## Reference
 
