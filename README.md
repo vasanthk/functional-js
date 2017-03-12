@@ -99,17 +99,17 @@ Remember that with partial application, we can apply more than one argument at a
 
 Functional programs are “declarative”. A declarative program declares “what” the program does without necessarily telling us “how” it does it.
 
-First, : FPFunctional programming strives for expressive and easy to understand code. The declarative example above wins on both counts, being both expressive, short, and easy to understand at a glance.
-
-Secondly, functional programming strives to use small, independent, reusable, and composable functions as the primary unit of abstraction. Loops (such as those in the imperative example above) aren’t reusable artifacts.
-
-Lastly, declarative code typically leads to less code—and that means fewer places for bugs to hide.
-
 Long story short:
 
 **Declarative = WHAT**
 
 **Imperative = HOW**
+
+First, Functional programming strives for expressive and easy to understand code. The declarative example above wins on both counts, being both expressive, short, and easy to understand at a glance.
+
+Secondly, functional programming strives to use small, independent, reusable, and composable functions as the primary unit of abstraction. Loops (such as those in the imperative example above) aren’t reusable artifacts.
+
+Lastly, declarative code typically leads to less code—and that means fewer places for bugs to hide.
 
 ## Reference
 
