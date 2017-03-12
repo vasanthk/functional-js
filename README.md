@@ -103,6 +103,8 @@ First, : FPFunctional programming strives for expressive and easy to understand 
 
 Secondly, functional programming strives to use small, independent, reusable, and composable functions as the primary unit of abstraction. Loops (such as those in the imperative example above) aren’t reusable artifacts.
 
+Lastly, declarative code typically leads to less code—and that means fewer places for bugs to hide.
+
 Long story short:
 
 **Declarative = WHAT**
