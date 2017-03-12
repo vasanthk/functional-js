@@ -50,6 +50,20 @@ Here’s a more general way to think about referential transparency:
 
 **Benefit 2**: Particularly helpful for optimizing code using memoization, common subexpression elimination, lazy evaluation, or parallelization.
 
+### Functions as first-class citizens
+
+The ability to treats functions as values let’s us use is as a first-class function. We can:
+
+* Refer to it from constants and variables
+
+* Pass it as a parameter to other functions
+
+* Return it as result from other functions
+
+Well, if we’re allowed to throw functions around like data, then we can also start to combine functions with other functions to create new functions and new behavior. This leads to all sorts of “functional” processes like composition, partial application, currying, and etc.
+
+The big takeaway here: always remember that functions are treated just like data in functional programming. We can refer to them from constants and variables, pass them as parameters to other functions, and return them as results from other functions. That’s what makes them “first-class citizens.”
+
 ## Reference
 
 [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.ip0v7pbkq)
