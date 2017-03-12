@@ -64,6 +64,10 @@ Well, if we’re allowed to throw functions around like data, then we can also s
 
 The big takeaway here: always remember that functions are treated just like data in functional programming. We can refer to them from constants and variables, pass them as parameters to other functions, and return them as results from other functions. That’s what makes them “first-class citizens.”
 
+### Higher Order Functions
+
+Higher-order functions are functions that work on other functions, meaning that they can take one or more functions as an argument and can also return a function as a result.
+
 ## Reference
 
 [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.ip0v7pbkq)
