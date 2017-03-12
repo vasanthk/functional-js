@@ -136,3 +136,7 @@ Lastly, declarative code typically leads to less code—and that means fewer pla
 [If you know map, I will teach you monads - Mattias Petter Johansson](https://www.youtube.com/watch?v=2jp8N6Ha7tY)
 
 [Learning Functional Programming with JavaScript - Anjana Vakil](https://www.youtube.com/watch?v=e-5obm1G_FY)
+
+## Related Readings
+
+[Immutable.js, persistent data structures and structural sharing](https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2#.l7d3k43yx)
