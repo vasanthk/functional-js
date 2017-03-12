@@ -68,6 +68,9 @@ The big takeaway here: always remember that functions are treated just like data
 
 Higher-order functions are functions that work on other functions, meaning that they can take one or more functions as an argument and can also return a function as a result.
 
+One of the key reasons for using higher-order functions is that they allow us to define computations by defining what we want instead of how to get it explicitly. This makes it much easier to understand the program as a whole, because we don't have to look at the for-loop and figure out what's going on.
+A great use case for higher-order functions is to replace loops with collection-iteration functions, such as reduce, map, and filter.
+
 ## Reference
 
 [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.ip0v7pbkq)
