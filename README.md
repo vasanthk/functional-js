@@ -78,6 +78,11 @@ To perform function composition, you simply have the result of each function be 
 
 Essentially, composition allows us take small, reusable, and independent functions and compose them together in various ways to build up much bigger programs. Rather than thinking about new functionality as adding and extending new methods to classes like we would in object-oriented programming, we simply create new functions and use composition to neatly knit them together.
 
+### Partial Application
+
+Partial application is a way to turn a function that expects multiple parameters into one that will keep returning a new function until it receives all its arguments. In other words, if a function accepts multiple parameters, we can “partially apply” some of the arguments now, filling in the rest later.
+We do this by creating intermediate functions that have just the arguments we provided applied to them (while waiting for the rest of the arguments to be supplied).
+
 ## Reference
 
 [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.ip0v7pbkq)
