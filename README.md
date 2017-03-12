@@ -76,6 +76,8 @@ A great use case for higher-order functions is to replace loops with collection-
 Once you get used to passing functions around like data, you’ll quickly start to discover ways to combine two or more functions together. This is known as function composition.
 To perform function composition, you simply have the result of each function be passed as the argument to the next, and treat the result of the last function in the sequence as the result of the whole.
 
+Essentially, composition allows us take small, reusable, and independent functions and compose them together in various ways to build up much bigger programs. Rather than thinking about new functionality as adding and extending new methods to classes like we would in object-oriented programming, we simply create new functions and use composition to neatly knit them together.
+
 ## Reference
 
 [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.ip0v7pbkq)
