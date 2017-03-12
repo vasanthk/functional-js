@@ -38,6 +38,10 @@ Goodbye to side-effects that can change an expression’s value. Goodbye to worr
 
 Overall, there are many other benefits to immutability in functional programming. They make values easy to share, they make it safer and easier to do concurrent programming, they avoid temporal coupling, they eliminate defensive copies, and much more.
 
+### Referential Transparency
+
+If a function consistently yields the same result for the same input, it is referentially transparent. It gives us the ability to freely replace an expression with its value and not change the behavior of the program.
+
 ## Reference
 
 [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.ip0v7pbkq)
