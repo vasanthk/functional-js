@@ -83,6 +83,10 @@ Essentially, composition allows us take small, reusable, and independent functio
 Partial application is a way to turn a function that expects multiple parameters into one that will keep returning a new function until it receives all its arguments. In other words, if a function accepts multiple parameters, we can “partially apply” some of the arguments now, filling in the rest later.
 We do this by creating intermediate functions that have just the arguments we provided applied to them (while waiting for the rest of the arguments to be supplied).
 
+**What’s the point of partial application?**
+
+In short, partial application allows us to partially apply certain argument to create new functions out of existing ones. The ability to take a generic function and specialize it by passing in certain arguments is incredibly useful.
+
 ## Reference
 
 [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.ip0v7pbkq)
