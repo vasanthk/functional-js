@@ -87,3 +87,5 @@ The big takeaway here: always remember that functions are treated just like data
 [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 
 [If you know map, I will teach you monads - Mattias Petter Johansson](https://www.youtube.com/watch?v=2jp8N6Ha7tY)
+
+[Learning Functional Programming with JavaScript - Anjana Vakil](https://www.youtube.com/watch?v=e-5obm1G_FY)
