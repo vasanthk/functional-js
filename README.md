@@ -87,11 +87,13 @@ We do this by creating intermediate functions that have just the arguments we pr
 
 In short, partial application allows us to partially apply certain argument to create new functions out of existing ones. The ability to take a generic function and specialize it by passing in certain arguments is incredibly useful.
 
-**Currying**
+### Currying
 
 Currying is the process of taking a function that accepts N arguments and turning it into a chained series of N functions that each take one argument.
 
 It sounds a lot like partial application, doesn’t it? It takes a function and an argument, and returns a new function with the argument applied to it. So what’s the difference? The difference is that with currying, you can never provide more than one argument — it has to be either one or zero.
+
+Remember that with partial application, we can apply more than one argument at a time. If a function takes 5 arguments, we can partially apply 3 of them. But with currying, we only pass one argument at a time. So if a function takes 5 arguments, we have to curry 5 times before we get the resulting value.
 
 ## Reference
 
