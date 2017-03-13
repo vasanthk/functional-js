@@ -139,6 +139,8 @@ Lastly, declarative code typically leads to less code—and that means fewer pla
 
 [Functional Principles In React - Jessica Kerr](https://www.youtube.com/watch?v=1uRC3hmKQnM)
 
+[Oh Composable World! - Brian Lonsdorf](https://www.youtube.com/watch?v=SfWR3dKnFIo)
+
 ## Immutability Readings
 
 [Immutable.js, persistent data structures and structural sharing](https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2#.l7d3k43yx)
