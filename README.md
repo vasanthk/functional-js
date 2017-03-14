@@ -141,7 +141,7 @@ Lastly, declarative code typically leads to less code—and that means fewer pla
 
 [Oh Composable World! - Brian Lonsdorf](https://www.youtube.com/watch?v=SfWR3dKnFIo)
 
-## Immutability Readings
+## Related Readings
 
 [Immutable.js, persistent data structures and structural sharing](https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2#.l7d3k43yx)
 
@@ -150,3 +150,5 @@ Lastly, declarative code typically leads to less code—and that means fewer pla
 [Why is immutability so important(or needed) in javascript?](http://stackoverflow.com/questions/34385243/why-is-immutability-so-importantor-needed-in-javascript/)
 
 [Does it make sense to create immutable objects that share structure by utilizing the javasript prototype system](http://stackoverflow.com/questions/33584671/does-it-make-sense-to-create-immutable-objects-that-share-structure-by-utilizing)
+
+[Functional setState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b)
