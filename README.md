@@ -145,6 +145,8 @@ Lastly, declarative code typically leads to less code—and that means fewer pla
 
 [Immutable.js, persistent data structures and structural sharing](https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2#.l7d3k43yx)
 
+[Functional Programming In JavaScript — With Practical Examples](https://medium.freecodecamp.com/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
+
 [Does immutability hurt performance in JavaScript?](http://softwareengineering.stackexchange.com/questions/304574/does-immutability-hurt-performance-in-javascript)
 
 [Why is immutability so important(or needed) in javascript?](http://stackoverflow.com/questions/34385243/why-is-immutability-so-importantor-needed-in-javascript/)
