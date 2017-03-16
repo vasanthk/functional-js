@@ -154,3 +154,5 @@ Lastly, declarative code typically leads to less code—and that means fewer pla
 [Does it make sense to create immutable objects that share structure by utilizing the javasript prototype system](http://stackoverflow.com/questions/33584671/does-it-make-sense-to-create-immutable-objects-that-share-structure-by-utilizing)
 
 [Functional setState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b)
+
+[Why hasn't functional programming taken over yet?](http://stackoverflow.com/questions/2835801/why-hasnt-functional-programming-taken-over-yet)
