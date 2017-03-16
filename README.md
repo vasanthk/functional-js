@@ -129,6 +129,8 @@ Lastly, declarative code typically leads to less code—and that means fewer pla
 
 [Is Javascript a Functional Programming Language?](http://softwareengineering.stackexchange.com/questions/127672/is-javascript-a-functional-programming-language)
 
+[Why hasn't functional programming taken over yet?](http://stackoverflow.com/questions/2835801/why-hasnt-functional-programming-taken-over-yet)
+
 ## Videos
 
 [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
@@ -155,4 +157,4 @@ Lastly, declarative code typically leads to less code—and that means fewer pla
 
 [Functional setState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b)
 
-[Why hasn't functional programming taken over yet?](http://stackoverflow.com/questions/2835801/why-hasnt-functional-programming-taken-over-yet)
+[The Elm Architecture](https://guide.elm-lang.org/architecture/)
