@@ -115,11 +115,13 @@ Lastly, declarative code typically leads to less code—and that means fewer pla
 
 [What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#.ip0v7pbkq)
 
-[Why Learn Functional Programming in JavaScript? (Composing Software)](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257#.haphei83h)
+[Why Learn Functional Programming in JavaScript? (Composing Software)](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257)
+
+[Reduce: Composing Software](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d)
 
 [Learn the fundamentals of functional programming](https://medium.freecodecamp.com/learning-the-fundamentals-of-functional-programming-425c9fd901c6#.8zk87ycto)
 
-[Why Learn Functional Programming in JavaScript? (Composing Software)](https://medium.freecodecamp.com/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
+[Functional Programming In JavaScript — With Practical Examples](https://medium.freecodecamp.com/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
 
 [Get Functional](https://blog.daftcode.pl/get-functional-3eaceb76258f)
 
