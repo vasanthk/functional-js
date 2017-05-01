@@ -135,6 +135,8 @@ Lastly, declarative code typically leads to less code—and that means fewer pla
 
 [A journey to functional JavaScript](https://gziolo.pl/2017/03/24/refactoring-to-functional-javascript-part-1-fundamentals/)
 
+[Deconstructing the React Component](https://jaysoo.ca/2017/04/30/learn-fp-with-react-part-1/)
+
 ## Videos
 
 [Functional Programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
